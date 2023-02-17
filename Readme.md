@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
-* Студент: [Константин Ульянов](https://up.htmlacademy.ru/javascript/28/user/2242743).
-* Наставник: `Артем Рудов`.
+* Студент: `Константин Ульянов`.(https://up.htmlacademy.ru/javascript/28/user/2242743).
+* Наставник: `Артем Рудов`.(https://htmlacademy.ru/profile/artrudov)
 
 ---
 
